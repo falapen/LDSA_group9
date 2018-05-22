@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/falapen/miniconda3/envs/ldsa/bin/python",
+    "python.linting.pylintEnabled": false
+}
